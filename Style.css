@@ -5,7 +5,10 @@
 
 .butt{
     background-color:chartreuse;
-    width: 50px;
+    height: auto;
+    font-size: large;
+    font-weight: 700;
+    width: auto;
     height: auto;
 }
 
@@ -21,7 +24,7 @@
 }
 
 .text.new{
-    font-style: oblique;
+    font-style: italic;
     font-weight: 900;
     color:saddlebrown ;
 }
